@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_KERNEL_PATH := device/realme/RMX1911/kernel
+DEVICE_KERNEL_PATH := device/realme/r5x-kernel
 
 # Kernel
 TARGET_PREBUILT_KERNEL := $(DEVICE_KERNEL_PATH)/Image
